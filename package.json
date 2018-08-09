@@ -1,0 +1,23 @@
+{
+  "name": "deque-dsvs",
+  "version": "1.0.1",
+  "description": "Double Ended Queue Data Structure - Vasile Sambor",
+  "main": "deque.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "deque",
+    "data",
+    "structure",
+    "double",
+    "ended",
+    "queue"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vsambor/deque-dsvs.git"
+  },
+  "author": "Vasile Sambor",
+  "license": "ISC"
+}
